@@ -22,11 +22,13 @@ Features:
 
   Requirements:
     To run this project, you'll need Python 3.x and the cs1graphics library installed on your computer. Install it using the command:
+        
         pip install cs1graphics
 
   How to Run
     Save the script to a file named hide_and_seek.py (or any name of your choice).
     Ensure you have Python and the cs1graphics library installed.
     Run the script using the following command: 
+        
         python hideAndSeek.py
     
