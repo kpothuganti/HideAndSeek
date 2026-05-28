@@ -1,5 +1,5 @@
 HideAndSeek Animation Project
-This Python script uses the cs1graphics library to create a fun and interactive animated story titled Hide and Seek. The animation features two penguin siblings playing a game of hide-and-seek in various scenic frames.
+This Python script uses the cs1graphics library to create an animated story titled Hide and Seek. The animation features two penguin siblings playing a game of hide-and-seek in various scenic frames.
 
 Features:
   Custom Animated Scene:
